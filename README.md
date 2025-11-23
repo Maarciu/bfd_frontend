@@ -16,7 +16,7 @@ Durante o curso, você desenvolverá miniapps para praticar os conceitos fundame
 
 ### 🔸 React + API – Gerenciador de Contatos
 
-- CRUD completo com Axios
+- CRUD completo com Fetch
 - Feedback visual de carregamento e erros
 - Organização em componentes reutilizáveis
 
@@ -70,7 +70,7 @@ Durante o curso, você desenvolverá miniapps para praticar os conceitos fundame
 
 ### 🌐 Web Services (Client Side) (15h)
 
-- Consumo de APIs REST com Fetch e Axios
+- Consumo de APIs REST com Fetch
 - Autenticação e headers personalizados
 - Tratamento de erros e loading states
 - Comunicação assíncrona com Promises e async/await
